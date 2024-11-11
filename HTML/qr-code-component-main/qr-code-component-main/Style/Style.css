@@ -15,20 +15,21 @@ body{
     width: 6cm;
     height: 10cm;
     background-color: antiquewhite;
-    border-radius: 3%;
-    padding: 0.5cm;
+    border-radius: 10px;
+    padding: 0.3cm;
    
     
     
 }
 
 .imagen{
-    width: 6cm;
-    height: 7cm;
-   background-image: url('../images/image-qr-code.png');
-   background-size: cover;
-   background-repeat: no-repeat;
-   border-radius: 2.9%;
+    /*width: 6cm;
+    height: 6cm;*/
+    overflow: hidden;
+    border-radius: 10px;
+    
+    
+   
 
 }
 /*Fuentes*/
@@ -37,12 +38,17 @@ body{
     src:url(../Font/Outfit/Outfit-VariableFont_wght.ttf) 
 }
 
-h4{
+h3{
     font-family: Outfit;
+    padding-top: 15px;
+    text-align: center;
 }
 
 p{
     font-family: Outfit;
+    font-size: 13px;
     color: hsl(216, 15%, 48%);
+    padding-top: 15px;
+    text-align: center;
     
 }
