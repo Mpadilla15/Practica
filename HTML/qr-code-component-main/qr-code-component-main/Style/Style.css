@@ -17,6 +17,9 @@ body{
     background-color: antiquewhite;
     border-radius: 10px;
     padding: 0.3cm;
+    -webkit-box-shadow: 10px 10px 31px -1px rgba(0,0,0,0.15);
+    -moz-box-shadow: 10px 10px 31px -1px rgba(0,0,0,0.15);
+    box-shadow: 10px 10px 31px -1px rgba(0,0,0,0.15);
    
     
     
