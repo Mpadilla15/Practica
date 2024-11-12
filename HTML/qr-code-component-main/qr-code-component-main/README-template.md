@@ -5,7 +5,9 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ## Table of contents
 
 - [Overview](#overview)
+   Este es un componente de código QR creado como un proyecto de práctica para mejorar las habilidades de desarrollo frontend. La tarjeta presenta un código QR que, al ser escaneado, redirige al sitio de Frontend Mentor, animando a los usuarios a mejorar sus habilidades en frontend mediante la creación de proyectos.
   - [Screenshot](#screenshot)
+    ![mi resultado](<mi resultado.png>)
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
