@@ -31,9 +31,6 @@ En este proyecto, mejoré mi comprensión sobre el uso de Flexbox para centrar e
 Guía de Flexbox de CSS-Tricks: Me ayudó a alinear la tarjeta al centro de la pantalla.
 Guía de box-shadow en MDN: Utilizada para aplicar las sombras en la tarjeta y darle un efecto de elevación.
 ## Author
-- Website - [Add your name here](https://www.your-site.com)
 - Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/Mpadilla15)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
--github[Mpadilla15](https://github.com/Mpadilla15)
 ## Acknowledgments
   Gracias a Frontend Mentor por el desafío y a los recursos en línea que facilitaron el aprendizaje sobre CSS y Flexbox.
