@@ -14,7 +14,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ## Overview
  Este es un componente de código QR creado como un proyecto de práctica para mejorar las habilidades de desarrollo frontend. La tarjeta presenta un código QR que, al ser escaneado, redirige al sitio de Frontend Mentor, animando a los usuarios a mejorar sus habilidades en frontend mediante la creación de proyectos.
 ### Screenshot
-![Solucion](HTML/qr-code-component-main/qr-code-component-main/Solucio.png)
+![Solucion](images/image-qr-code.png)
 ### Links
 - Solution URL: [Add solution URL here](https://mpadilla15.github.io/Practica/HTML/qr-code-component-main/qr-code-component-main/index.html)
 ## My process
@@ -34,3 +34,6 @@ Guía de box-shadow en MDN: Utilizada para aplicar las sombras en la tarjeta y d
 - Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/Mpadilla15)
 ## Acknowledgments
   Gracias a Frontend Mentor por el desafío y a los recursos en línea que facilitaron el aprendizaje sobre CSS y Flexbox.
+
+
+[def]: HTML/qr-code-component-main/qr-code-component-main/README.md
