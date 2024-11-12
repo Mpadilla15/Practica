@@ -1,13 +1,11 @@
 # Frontend Mentor - QR code component solution
 
-This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [QR code component challenge on Frontend Mentor](https://mpadilla15.github.io/Practica/HTML/qr-code-component-main/qr-code-component-main/index.html). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
 ## Table of contents
 
 - [Overview](#overview)
-   Este es un componente de código QR creado como un proyecto de práctica para mejorar las habilidades de desarrollo frontend. La tarjeta presenta un código QR que, al ser escaneado, redirige al sitio de Frontend Mentor, animando a los usuarios a mejorar sus habilidades en frontend mediante la creación de proyectos.
   - [Screenshot](#screenshot)
-    ![mi resultado](<mi resultado.png>)
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
@@ -16,90 +14,29 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [Useful resources](#useful-resources)
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
-
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
-
+ Este es un componente de código QR creado como un proyecto de práctica para mejorar las habilidades de desarrollo frontend. La tarjeta presenta un código QR que, al ser escaneado, redirige al sitio de Frontend Mentor, animando a los usuarios a mejorar sus habilidades en frontend mediante la creación de proyectos.
 ### Screenshot
-
-![](./screenshot.jpg)
-
-Add a screenshot of your solution. The easiest way to do this is to use Firefox to view your project, right-click the page and select "Take a Screenshot". You can choose either a full-height screenshot or a cropped one based on how long the page is. If it's very long, it might be best to crop it.
-
-Alternatively, you can use a tool like [FireShot](https://getfireshot.com/) to take the screenshot. FireShot has a free option, so you don't need to purchase it. 
-
-Then crop/optimize/edit your image however you like, add it to your project, and update the file path in the image above.
-
-**Note: Delete this note and the paragraphs above when you add your screenshot. If you prefer not to add a screenshot, feel free to remove this entire section.**
-
+![Solucion](<mi resultado.png>)
 ### Links
-
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
-
+- Solution URL: [Add solution URL here](https://mpadilla15.github.io/Practica/HTML/qr-code-component-main/qr-code-component-main/index.html)
 ## My process
-
+Empecé por crear la estructura HTML básica, luego añadí el código QR, el título, la descripción. Después, apliqué estilos en CSS para centrar la tarjeta en la página, personalizar los colores, agregar sombras y dar formato al texto.
 ### Built with
-
-- Semantic HTML5 markup
-- CSS custom properties
-- Flexbox
-- CSS Grid
-- Mobile-first workflow
-- [React](https://reactjs.org/) - JS library
-- [Next.js](https://nextjs.org/) - React framework
-- [Styled Components](https://styled-components.com/) - For styles
-
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
-
+- HTML5 para la estructura del contenido.
+    CSS3 para el diseño visual, incluyendo bordes redondeados, sombras y alineación.
+    Outfit: Tipografía utilizada para el texto, aplicada mediante una fuente personalizada en CSS.
 ### What I learned
-
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
-
-To see how you can add code snippets, see below:
-
-```html
-<h1>Some HTML code I'm proud of</h1>
-```
-```css
-.proud-of-this-css {
-  color: papayawhip;
-}
-```
-```js
-const proudOfThisFunc = () => {
-  console.log('🎉')
-}
-```
-
-If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
-
-**Note: Delete this note and the content within this section and replace with your own learnings.**
-
+En este proyecto, mejoré mi comprensión sobre el uso de Flexbox para centrar elementos en la pantalla, así como el uso de sombras (box-shadow) para dar profundidad a los elementos. También aprendí a personalizar y usar fuentes externas y a aplicar bordes redondeados para mejorar la estética.
 ### Continued development
-
-Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
-
-**Note: Delete this note and the content within this section and replace with your own plans for continued development.**
-
+ En el futuro, se podría mejorar el diseño responsivo para que la tarjeta se vea bien en dispositivos de diferentes tamaños. También sería interesante añadir una animación al escanear el código QR .
 ### Useful resources
-
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
-
-**Note: Delete this note and replace the list above with resources that helped you during the challenge. These could come in handy for anyone viewing your solution or for yourself when you look back on this project in the future.**
-
+Guía de Flexbox de CSS-Tricks: Me ayudó a alinear la tarjeta al centro de la pantalla.
+Guía de box-shadow en MDN: Utilizada para aplicar las sombras en la tarjeta y darle un efecto de elevación.
 ## Author
-
 - Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/Mpadilla15)
 - Twitter - [@yourusername](https://www.twitter.com/yourusername)
-
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
-
+-github[Mpadilla15](https://github.com/Mpadilla15)
 ## Acknowledgments
-
-This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
-
-**Note: Delete this note and edit this section's content as necessary. If you completed this challenge by yourself, feel free to delete this section entirely.**
+  Gracias a Frontend Mentor por el desafío y a los recursos en línea que facilitaron el aprendizaje sobre CSS y Flexbox.
