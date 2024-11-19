@@ -22,8 +22,8 @@ Aquí presento la captura de pantalla del componente QR desarrollado como parte 
 ![Solucion](Solucion.jpeg)
 
 ### Links
-- Solution URL: [Add solution URL here](https://github.com/Mpadilla15/Practica/tree/main/HTML/Qr%20code%20component%20main)
-- Live Site URL: [Add live site URL here](https://mpadilla15.github.io/Practica/HTML/Qr%20code%20component%20main/index.html)
+- Solution URL: [Github](https://github.com/Mpadilla15/Practica/tree/main/HTML/Qr%20code%20component%20main)
+- Live Site URL: [Frondendmentor](https://www.frontendmentor.io/profile/Mpadilla15)
 
 
 ## My process
