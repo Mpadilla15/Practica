@@ -25,14 +25,14 @@ El desafío consistió en crear una tarjeta de perfil con enlaces a redes social
 
 ### Screenshot
 Este es el resultado final del proyecto de tarjeta de perfil con enlaces sociales.
-![Esta es mi solucion](/Solucion.jpeg)
+![Esta es mi solucion](Solucion.jpeg)
 
 
 
 ### Links
 
 - Solución en Frontend Mentor: (https://www.frontendmentor.io/profile/Mpadilla15)
-- Live Site URL: [Sitio en vivo](https://mpadilla15.github.io/Practica/HTML/Social links profile main/index.html)
+- Live Site URL: [Sitio en vivo](https://mpadilla15.github.io/Practica/HTML/Social-links-profile-main/index.html)
 
 ## My process
 
